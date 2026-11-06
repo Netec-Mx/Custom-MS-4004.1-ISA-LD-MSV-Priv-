@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="630" viewBox="0 0 1100 630">
+<rect width="1100" height="630" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1100" height="70" fill="#1F4E79"/>
+<text x="30" y="32" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="20" fill="#FFFFFF" font-weight="bold" text-anchor="start">Práctica 12. Crear un agente revisor de solicitudes</text>
+<text x="30" y="56" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#DDE8F5" font-weight="normal" text-anchor="start">Herramienta principal: Agent Builder</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#595959"/></marker></defs>
+<rect x="25" y="100" width="250" height="500" rx="10" fill="#EAF1FB" stroke="#2E75B6" stroke-width="2"/>
+<text x="45" y="130" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="17" fill="#1F4E79" font-weight="bold" text-anchor="start">Insumos</text>
+<text x="45" y="160" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Lineamientos de presentación</text>
+<text x="45" y="177" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">de solicitudes</text>
+<text x="45" y="202" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Criterios de evaluación</text>
+<text x="45" y="227" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Ejemplo bien documentado</text>
+<text x="45" y="252" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Solicitudes de prueba A y B</text>
+<rect x="325" y="100" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
+<circle cx="357" cy="139.0" r="18" fill="#2E75B6"/>
+<text x="357" y="145.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">1</text>
+<text x="387" y="135.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Crear el agente y definir su propósito e</text>
+<text x="387" y="153.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">instrucciones</text>
+<line x1="560.0" y1="178" x2="560.0" y2="190" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
+<rect x="325" y="192" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
+<circle cx="357" cy="231.0" r="18" fill="#2E75B6"/>
+<text x="357" y="237.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">2</text>
+<text x="387" y="236.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Incorporar las fuentes de conocimiento</text>
+<line x1="560.0" y1="270" x2="560.0" y2="282" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
+<rect x="325" y="284" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
+<circle cx="357" cy="323.0" r="18" fill="#2E75B6"/>
+<text x="357" y="329.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">3</text>
+<text x="387" y="328.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Probar con una solicitud completa y una incompleta</text>
+<line x1="560.0" y1="362" x2="560.0" y2="374" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
+<rect x="325" y="376" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
+<circle cx="357" cy="415.0" r="18" fill="#2E75B6"/>
+<text x="357" y="421.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">4</text>
+<text x="387" y="411.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Refinar las instrucciones y validar que no emita</text>
+<text x="387" y="429.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">aprobaciones</text>
+<line x1="560.0" y1="454" x2="560.0" y2="466" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
+<rect x="325" y="468" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
+<circle cx="357" cy="507.0" r="18" fill="#2E75B6"/>
+<text x="357" y="513.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">5</text>
+<text x="387" y="512.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Guardar el agente y documentar la evidencia</text>
+<line x1="277" y1="330.0" x2="319" y2="330.0" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
+<line x1="797" y1="330.0" x2="837" y2="330.0" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
+<rect x="845" y="100" width="230" height="500" rx="10" fill="#E8F6F3" stroke="#0F7B6C" stroke-width="2"/>
+<text x="865" y="130" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="17" fill="#0F7B6C" font-weight="bold" text-anchor="start">Entregable</text>
+<text x="865" y="162" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Agente personalizado</text>
+<text x="865" y="180" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">probado que genera una</text>
+<text x="865" y="198" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">ficha de revisión</text>
+<text x="865" y="216" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">preliminar sin emitir</text>
+<text x="865" y="234" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">aprobaciones</text>
+</svg>
