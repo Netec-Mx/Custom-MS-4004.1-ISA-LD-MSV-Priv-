@@ -1,42 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="538" viewBox="0 0 1100 538">
-<rect width="1100" height="538" fill="#FFFFFF"/>
-<rect x="0" y="0" width="1100" height="70" fill="#1F4E79"/>
-<text x="30" y="32" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="20" fill="#FFFFFF" font-weight="bold" text-anchor="start">Práctica 8. Preparar un informe ejecutivo</text>
-<text x="30" y="56" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#DDE8F5" font-weight="normal" text-anchor="start">Herramienta principal: Agente de informe ejecutivo</text>
-<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#595959"/></marker></defs>
-<rect x="25" y="100" width="250" height="408" rx="10" fill="#EAF1FB" stroke="#2E75B6" stroke-width="2"/>
-<text x="45" y="130" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="17" fill="#1F4E79" font-weight="bold" text-anchor="start">Insumos</text>
-<text x="45" y="160" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Informe financiero T3 (PDF)</text>
-<text x="45" y="185" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Evaluación de riesgos (PDF)</text>
-<text x="45" y="210" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">• Avance operativo, resultados</text>
-<text x="45" y="227" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" fill="#222" font-weight="normal" text-anchor="start">fase 1 y antecedentes (Word)</text>
-<rect x="325" y="100" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
-<circle cx="357" cy="139.0" r="18" fill="#2E75B6"/>
-<text x="357" y="145.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">1</text>
-<text x="387" y="135.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Definir objetivo, participantes, decisiones y</text>
-<text x="387" y="153.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">fuentes</text>
-<line x1="560.0" y1="178" x2="560.0" y2="190" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
-<rect x="325" y="192" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
-<circle cx="357" cy="231.0" r="18" fill="#2E75B6"/>
-<text x="357" y="237.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">2</text>
-<text x="387" y="236.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Generar el informe ejecutivo con el agente</text>
-<line x1="560.0" y1="270" x2="560.0" y2="282" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
-<rect x="325" y="284" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
-<circle cx="357" cy="323.0" r="18" fill="#2E75B6"/>
-<text x="357" y="329.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">3</text>
-<text x="387" y="319.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Revisar afirmaciones sin respaldo y diferencias</text>
-<text x="387" y="337.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">entre fuentes</text>
-<line x1="560.0" y1="362" x2="560.0" y2="374" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
-<rect x="325" y="376" width="470" height="78" rx="10" fill="#FFFFFF" stroke="#2E75B6" stroke-width="2"/>
-<circle cx="357" cy="415.0" r="18" fill="#2E75B6"/>
-<text x="357" y="421.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle">4</text>
-<text x="387" y="420.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Ajustar el informe y guardarlo en Word</text>
-<line x1="277" y1="284.0" x2="319" y2="284.0" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
-<line x1="797" y1="284.0" x2="837" y2="284.0" stroke="#595959" stroke-width="2" marker-end="url(#a)"/>
-<rect x="845" y="100" width="230" height="408" rx="10" fill="#E8F6F3" stroke="#0F7B6C" stroke-width="2"/>
-<text x="865" y="130" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="17" fill="#0F7B6C" font-weight="bold" text-anchor="start">Entregable</text>
-<text x="865" y="162" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">Informe ejecutivo en Word</text>
-<text x="865" y="180" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">con síntesis, mensajes</text>
-<text x="865" y="198" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">clave, preguntas</text>
-<text x="865" y="216" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="14" fill="#222" font-weight="normal" text-anchor="start">anticipadas y referencias</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="602" viewBox="0 0 1440 602" role="img">
+<rect x="0" y="0" width="1440" height="602" rx="0" fill="#F7F9FC"/>
+<rect x="0" y="0" width="1440" height="108" rx="0" fill="#184568"/>
+<text x="42" y="44" font-family="Liberation Sans, Arial, sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="start">Práctica 8. Preparar un informe ejecutivo</text>
+<text x="42" y="78" font-family="Liberation Sans, Arial, sans-serif" font-size="19" font-weight="normal" fill="#DDEAF5" text-anchor="start">Herramienta principal: Agente de informe ejecutivo</text>
+<rect x="36" y="138" width="333" height="431" rx="16" fill="#FFFFFF" stroke="#D5E0E8" stroke-width="1.7"/>
+<rect x="393" y="138" width="638" height="431" rx="16" fill="#FFFFFF" stroke="#D5E0E8" stroke-width="1.7"/>
+<rect x="1057" y="138" width="347" height="431" rx="16" fill="#F1F8F5" stroke="#107A70" stroke-width="1.7"/>
+<rect x="36" y="138" width="333" height="8" rx="4" fill="#2B6598"/>
+<rect x="393" y="138" width="638" height="8" rx="4" fill="#2B6598"/>
+<rect x="1057" y="138" width="347" height="8" rx="4" fill="#107A70"/>
+<text x="60" y="181" font-family="Liberation Sans, Arial, sans-serif" font-size="21" font-weight="bold" fill="#184568" text-anchor="start">Insumos</text>
+<text x="418" y="181" font-family="Liberation Sans, Arial, sans-serif" font-size="21" font-weight="bold" fill="#184568" text-anchor="start">Secuencia operativa</text>
+<text x="1081" y="181" font-family="Liberation Sans, Arial, sans-serif" font-size="21" font-weight="bold" fill="#107A70" text-anchor="start">Resultado esperado</text>
+<rect x="55" y="200" width="295" height="52" rx="10" fill="#F3F7FB" stroke="#D5E0E8" stroke-width="1"/>
+<rect x="55" y="200" width="5" height="52" rx="1" fill="#2B6598"/>
+<text x="69" y="228" font-family="DejaVu Sans Mono, monospace" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Dossier_Gestion_PMS.docx</text>
+<rect x="55" y="265" width="295" height="72" rx="10" fill="#F3F7FB" stroke="#D5E0E8" stroke-width="1"/>
+<rect x="55" y="265" width="5" height="72" rx="1" fill="#2B6598"/>
+<text x="69" y="293" font-family="DejaVu Sans Mono, monospace" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Informes_Financieros_y_</text>
+<text x="69" y="315" font-family="DejaVu Sans Mono, monospace" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Riesgos_PMS.pdf</text>
+<rect x="55" y="350" width="295" height="72" rx="10" fill="#F3F7FB" stroke="#D5E0E8" stroke-width="1"/>
+<rect x="55" y="350" width="5" height="72" rx="1" fill="#2B6598"/>
+<text x="69" y="378" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Participantes, decisiones y fuentes</text>
+<text x="69" y="400" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">definidas por el usuario</text>
+<rect x="411" y="201" width="602" height="83" rx="11" fill="#F8FAFC" stroke="#D5E0E8" stroke-width="1"/>
+<circle cx="443" cy="242.5" r="19" fill="#2B6598"/>
+<text x="443" y="248.5" font-family="Liberation Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="479" y="235.5" font-family="Liberation Sans, Arial, sans-serif" font-size="19" font-weight="normal" fill="#243345" text-anchor="start">Definir el objetivo, los participantes, las decisiones y las</text>
+<text x="479" y="261.5" font-family="Liberation Sans, Arial, sans-serif" font-size="19" font-weight="normal" fill="#243345" text-anchor="start">fuentes</text>
+<rect x="411" y="296" width="602" height="73" rx="11" fill="#F8FAFC" stroke="#D5E0E8" stroke-width="1"/>
+<circle cx="443" cy="332.5" r="19" fill="#2B6598"/>
+<text x="443" y="338.5" font-family="Liberation Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="479" y="338.5" font-family="Liberation Sans, Arial, sans-serif" font-size="19" font-weight="normal" fill="#243345" text-anchor="start">Generar el informe ejecutivo con el agente</text>
+<rect x="411" y="381" width="602" height="73" rx="11" fill="#F8FAFC" stroke="#D5E0E8" stroke-width="1"/>
+<circle cx="443" cy="417.5" r="19" fill="#2B6598"/>
+<text x="443" y="423.5" font-family="Liberation Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="479" y="423.5" font-family="Liberation Sans, Arial, sans-serif" font-size="19" font-weight="normal" fill="#243345" text-anchor="start">Revisar afirmaciones sin respaldo y diferencias entre fuentes</text>
+<rect x="411" y="466" width="602" height="73" rx="11" fill="#F8FAFC" stroke="#D5E0E8" stroke-width="1"/>
+<circle cx="443" cy="502.5" r="19" fill="#2B6598"/>
+<text x="443" y="508.5" font-family="Liberation Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="479" y="508.5" font-family="Liberation Sans, Arial, sans-serif" font-size="19" font-weight="normal" fill="#243345" text-anchor="start">Ajustar el informe y guardarlo en Word</text>
+<text x="1081" y="211" font-family="Liberation Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#536679" text-anchor="start">ENTREGABLE</text>
+<text x="1081" y="244" font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="bold" fill="#184568" text-anchor="start">Informe_Ejecutivo_PMS_</text>
+<text x="1081" y="270" font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="bold" fill="#184568" text-anchor="start">[INICIALES].docx</text>
+<line x1="1081" y1="310" x2="1380" y2="310" stroke="#D5E0E8" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1081" y="346" font-family="Liberation Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#107A70" text-anchor="start">COMPROBAR</text>
+<circle cx="1087" cy="385" r="4" fill="#107A70"/>
+<text x="1101" y="388" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Informe ejecutivo con referencias</text>
+<circle cx="1087" cy="432" r="4" fill="#107A70"/>
+<text x="1101" y="435" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Diferencias entre fuentes</text>
+<text x="1101" y="458" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">identificadas</text>
+<circle cx="1087" cy="502" r="4" fill="#107A70"/>
+<text x="1101" y="505" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">Afirmaciones no sustentadas por</text>
+<text x="1101" y="528" font-family="Liberation Sans, Arial, sans-serif" font-size="17" font-weight="normal" fill="#243345" text-anchor="start">validar</text>
 </svg>

@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 - Identificar desviaciones, tendencias y relaciones entre indicadores, diferenciando resultados observados de posibles causas.
 - Comparar alternativas de priorización ante una restricción presupuestal y reconocer qué información adicional se requiere antes de reasignar recursos.
 
-## Objetivo Visual
+## Objetivo visual
 ![Diagrama de la Práctica 2](../../images/cap02-objetivo.svg)
 
 ## Duración aproximada:
@@ -30,18 +30,17 @@ Al finalizar la práctica, serás capaz de:
 | Hojas del archivo | `Portafolio` (18 iniciativas), `Ejecucion_Trimestral`, `Diccionario`, `Nota` |
 | Unidad monetaria | Millones de pesos colombianos (MCOP) |
 | Fecha de corte del dato | 30 de septiembre de 2026 |
-| Tiempo de respuesta de Analista | Entre 1 y 4 minutos por solicitud (ejecuta código para calcular) |
+| Tiempo de respuesta de Analista | Variable según el tamaño del archivo y la solicitud |
 | Nombre del entregable | `Diagnostico_Portafolio_[INICIALES].docx` |
 
 ## Instrucciones
 
-### Tarea 1. Cargar el portafolio y validar la interpretación de los datos.
+### Tarea 1. Cargar el portafolio y validar la interpretación de los datos
+**Paso 1.** Seleccionar en la aplicación Microsoft 365 Copilot **Agentes** y elegir **Analista**.
 
-Paso 1. En la aplicación Microsoft 365 Copilot, seleccionar **Agentes** y elegir **Analista**.
+**Paso 2.** Adjuntar el archivo `Portafolio_Inversiones_2026.xlsx` con el botón **+** (Agregar contenido) desde OneDrive, o escribir `/` y seleccionarlo.
 
-Paso 2. Adjuntar el archivo `Portafolio_Inversiones_2026.xlsx` con el botón **+** (Agregar contenido) desde OneDrive, o escribir `/` y seleccionarlo.
-
-Paso 3. Escribir:
+**Paso 3.** Escribir:
 
 ```text
 Revisa el archivo adjunto. Describe las hojas, las columnas de la hoja Portafolio y cómo
@@ -49,13 +48,12 @@ interpretas cada campo usando la hoja Diccionario. Confirma cuántas iniciativas
 categoría y el total de presupuesto aprobado y ejecutado. No hagas análisis todavía.
 ```
 
-Paso 4. Comparar la respuesta con la hoja `Diccionario`. Verificar especialmente que Analista entienda que `Presupuesto_ejecutado_MCOP` **no incluye compromisos contractuales** pendientes.
+**Paso 4.** Comparar la respuesta con la hoja `Diccionario`. Verificar especialmente que Analista entienda que `Presupuesto_ejecutado_MCOP` **no incluye compromisos contractuales** pendientes.
 
 > **Validación:** el total aprobado debe ser **153.850 MCOP** y el ejecutado **95.220 MCOP**. Si el agente obtiene otros valores, pedirle que muestre el cálculo y corregir la interpretación antes de continuar.
 
-### Tarea 2. Identificar desviaciones de presupuesto, avance e hitos.
-
-Paso 1. Solicitar el análisis de desviaciones:
+### Tarea 2. Identificar desviaciones de presupuesto, avance e hitos
+**Paso 1.** Solicitar el análisis de desviaciones:
 
 ```text
 Calcula para cada iniciativa:
@@ -66,20 +64,19 @@ Muestra las 5 iniciativas con mayor brecha negativa de avance y las que tienen
 % de presupuesto ejecutado mayor que su avance real. Presenta una tabla y un gráfico de barras.
 ```
 
-Paso 2. Pedir una segunda visualización:
+**Paso 2.** Pedir una segunda visualización:
 
 ```text
 Crea un gráfico de dispersión con días de retraso en el eje X y beneficio anual esperado
 en el eje Y, con color por nivel de riesgo. Señala las iniciativas de prioridad estratégica 1.
 ```
 
-Paso 3. Descargar o copiar ambos gráficos (botón de descarga o clic derecho sobre la imagen) para incluirlos en el entregable.
+**Paso 3.** Descargar o copiar ambos gráficos (botón de descarga o clic derecho sobre la imagen) para incluirlos en el entregable.
 
 > **Validación:** las 5 mayores brechas negativas de avance son **INV-17** (-28 pts), **INV-08** (-26), **INV-11** (-15), **INV-03** (-14) e **INV-09** (-13). **INV-01 (PMS)** aparece en sexto lugar (-12) con 64 % del presupuesto ejecutado frente a 58 % de avance real. Si el resultado difiere, pedir al agente que muestre el criterio de orden utilizado.
 
-### Tarea 3. Analizar tendencias y relaciones, separando hechos de posibles causas.
-
-Paso 1. Escribir:
+### Tarea 3. Analizar tendencias y relaciones, separando hechos de posibles causas
+**Paso 1.** Escribir:
 
 ```text
 Usa la hoja Ejecucion_Trimestral para identificar qué iniciativas desaceleraron su ejecución
@@ -91,11 +88,10 @@ No presentes una causa como hecho si no está en los datos.
 
 > **Validación:** la hoja trimestral muestra desaceleración de la ejecución en **INV-01**, **INV-03**, **INV-12** e **INV-17**; el resto del portafolio acelera su ejecución hacia el tercer trimestre.
 
-Paso 2. Revisar que la sección "Posibles causas" no afirme hechos que no estén en el archivo (por ejemplo, causas del retraso del PMS que no aparezcan en la columna `Riesgo_principal`).
+**Paso 2.** Revisar que la sección "Posibles causas" no afirme hechos que no estén en el archivo (por ejemplo, causas del retraso del PMS que no aparezcan en la columna `Riesgo_principal`).
 
-### Tarea 4. Comparar alternativas de priorización ante una restricción presupuestal.
-
-Paso 1. Introducir el escenario de restricción:
+### Tarea 4. Comparar alternativas de priorización ante una restricción presupuestal
+**Paso 1.** Introducir el escenario de restricción:
 
 ```text
 Escenario: la Dirección Financiera anuncia que el presupuesto pendiente por ejecutar
@@ -108,7 +104,7 @@ Para cada alternativa muestra el monto recortado por iniciativa, el beneficio an
 y las iniciativas más afectadas. Presenta una tabla resumen comparativa.
 ```
 
-Paso 2. Solicitar los límites del análisis:
+**Paso 2.** Solicitar los límites del análisis:
 
 ```text
 ¿Qué información adicional, que no está en este archivo, se requiere antes de reasignar recursos?
@@ -116,23 +112,22 @@ Considera compromisos contractuales, obligaciones regulatorias, dependencias ent
 y beneficios no cuantificados (beneficio = 0).
 ```
 
-Paso 3. Crear un documento de Word con las secciones de la imagen de resultado esperado: indicadores clave, visualizaciones, desviaciones y tendencias, escenarios de priorización e información requerida. Agregar una conclusión de máximo cinco líneas escrita por usted con la alternativa que recomendaría y su condición principal.
+**Paso 3.** Crear un documento de Word con los siguientes apartados: indicadores clave, visualizaciones, desviaciones y tendencias, escenarios de priorización e información requerida. Agregar una conclusión de máximo cinco líneas escrita por usted con la alternativa que recomiendaría y su condición principal.
 
-Paso 4. Guardar como `Laboratorio_Copilot_ISA/Entregables/Diagnostico_Portafolio_[INICIALES].docx`.
-
-### Entregable
-Diagnóstico ejecutivo del portafolio con indicadores, visualizaciones y escenarios de priorización.
-
-Criterios de verificación:
-- [ ] Presenta los totales validados del portafolio y los indicadores de ejecución, avance e hitos.
-- [ ] Incluye al menos dos visualizaciones generadas por Analista.
-- [ ] Distingue explícitamente hechos observados de posibles causas.
-- [ ] Compara las alternativas A y B con monto recortado y beneficio en riesgo.
-- [ ] Lista la información adicional requerida antes de reasignar recursos y una conclusión del participante.
+**Paso 4.** Guardar como `Laboratorio_Copilot_ISA/Entregables/Diagnostico_Portafolio_[INICIALES].docx`.
 
 ### Resultado esperado
+Diagnóstico ejecutivo del portafolio con indicadores, visualizaciones y escenarios de priorización.
+
+**Comprobación de finalización:**
+- Presenta los totales validados del portafolio y los indicadores de ejecución, avance e hitos.
+- Incluye al menos dos visualizaciones generadas por Analista.
+- Distingue explícitamente hechos observados de posibles causas.
+- Compara las alternativas A y B con monto recortado y beneficio en riesgo.
+- Lista la información adicional requerida antes de reasignar recursos y una conclusión del participante.
+
 ![Estructura esperada del entregable de la Práctica 2](../../images/cap02-resultado.svg)
 
 ---
 
-[⬅ Anterior: Práctica 1](../../Capitulo01/Practica01/README.md) | [Inicio](../../README.md) | [Siguiente: Práctica 3 ➡](../../Capitulo01/Practica03/README.md)
+[Práctica 1](../Practica01/README.md) | [Inicio](../../README.md) | [Práctica 3](../Practica03/README.md)
