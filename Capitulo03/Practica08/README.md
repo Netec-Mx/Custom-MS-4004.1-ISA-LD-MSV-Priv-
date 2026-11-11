@@ -9,7 +9,7 @@ Al finalizar la práctica, serás capaz de:
 - Revisar críticamente el informe generado para identificar afirmaciones sin respaldo, diferencias entre fuentes y recomendaciones que deben validarse.
 - Entregar un informe ejecutivo en Word con síntesis, mensajes clave, preguntas anticipadas y referencias documentales.
 
-## Objetivo Visual
+## Objetivo visual
 ![Diagrama de la Práctica 8](../../images/cap08-objetivo.svg)
 
 ## Duración aproximada:
@@ -26,28 +26,27 @@ Al finalizar la práctica, serás capaz de:
 | Elemento | Valor |
 | --- | --- |
 | Agente | Agente de informe ejecutivo |
-| Documentos PDF | [Informe_Financiero_PMS_T3_2026.pdf](recursos/Informe_Financiero_PMS_T3_2026.pdf), [Evaluacion_Riesgos_PMS_2026.pdf](recursos/Evaluacion_Riesgos_PMS_2026.pdf) |
-| Documentos Word | [Avance_Operativo_PMS_Oct2026.docx](recursos/Avance_Operativo_PMS_Oct2026.docx), [Resultados_Fase1_PMS.docx](recursos/Resultados_Fase1_PMS.docx), [Antecedentes_Reuniones_PMS.docx](recursos/Antecedentes_Reuniones_PMS.docx) |
+| Fuentes financieras y de riesgos (PDF) | [Informes_Financieros_y_Riesgos_PMS.pdf](recursos/Informes_Financieros_y_Riesgos_PMS.pdf) — apartados de Finanzas y Riesgos Corporativos. |
+| Fuentes operativas y antecedentes (Word) | [Dossier_Gestion_PMS.docx](recursos/Dossier_Gestion_PMS.docx) — antecedentes, avances operativos y resultados de la fase 1. |
 | Ubicación | `Laboratorio_Copilot_ISA/Practica08/` en OneDrive |
 | Reunión | Revisión de resultados del Programa de Modernización de Subestaciones (PMS) con la alta dirección |
 | Nombre del entregable | `Informe_Ejecutivo_PMS_[INICIALES].docx` |
 
 ## Instrucciones
 
-### Tarea 1. Definir el objetivo, los participantes, las decisiones y las fuentes.
+### Tarea 1. Definir el objetivo, los participantes, las decisiones y las fuentes
+**Paso 1.** Abrir en la aplicación Microsoft 365 Copilot **Agentes** y seleccionar **Agente de informe ejecutivo**.
 
-Paso 1. En la aplicación Microsoft 365 Copilot, abrir **Agentes** y seleccionar **Agente de informe ejecutivo**.
-
-Paso 2. Antes de escribir la instrucción, completar mentalmente o en una nota estos cuatro datos (se usan en el Paso 3):
+**Paso 2.** Definir estos cuatro datos antes de enviar la instrucción (se usan en el Paso 3):
 
 | Dato | Valor para esta práctica |
 | --- | --- |
 | Objetivo de la reunión | Revisar los resultados del PMS y decidir el tratamiento de la solicitud de 6.800 MCOP |
 | Participantes | Presidente, Vicepresidente de Transmisión, Director Financiero, Directora de Proyectos de Infraestructura |
 | Decisiones esperadas | Condiciones para evaluar recursos adicionales; responsable de ciberseguridad OT; re-secuenciación |
-| Fuentes | Los cinco documentos de la tabla de ayuda |
+| Fuentes | Los dos expedientes de la tabla de ayuda (con cinco fuentes originales organizadas en secciones) |
 
-Paso 3. Escribir, referenciando los cinco documentos con `/`:
+**Paso 3.** Escribir, referenciando los dos archivos con `/`:
 
 ```text
 Prepara un briefing ejecutivo para una reunión de alta dirección.
@@ -57,16 +56,15 @@ Participantes: Presidente, Vicepresidente de Transmisión, Director Financiero y
 Proyectos de Infraestructura.
 Decisiones esperadas: condiciones para evaluar los recursos adicionales, responsable de la
 validación de ciberseguridad OT y aprobación de la re-secuenciación de subestaciones.
-Fuentes: /Informe_Financiero_PMS_T3_2026 /Evaluacion_Riesgos_PMS_2026 /Avance_Operativo_PMS_Oct2026
-/Resultados_Fase1_PMS /Antecedentes_Reuniones_PMS.
+Fuentes: /Informes_Financieros_y_Riesgos_PMS (secciones Financiera y Riesgos)
+y /Dossier_Gestion_PMS (secciones Antecedentes, Avance operativo y Resultados de fase 1).
 Usa solo estas fuentes.
 ```
 
-### Tarea 2. Generar el informe ejecutivo con el agente.
+### Tarea 2. Generar el informe ejecutivo con el agente
+**Paso 1.** Responder, si el agente solicita datos adicionales (tono, extensión, formato): "Tono ejecutivo, máximo dos páginas, formato de documento".
 
-Paso 1. Si el agente solicita datos adicionales (tono, extensión, formato), responder: "Tono ejecutivo, máximo dos páginas, formato de documento".
-
-Paso 2. Solicitar la estructura completa:
+**Paso 2.** Solicitar la estructura completa:
 
 ```text
 El informe debe incluir: 1) propósito y decisiones esperadas, 2) síntesis de resultados financieros,
@@ -75,19 +73,18 @@ para la dirección, 6) preguntas que podrían plantear los participantes, 7) asu
 aclaración. Cada afirmación debe indicar entre corchetes el documento fuente.
 ```
 
-> **Validación:** el informe incluye las siete secciones y referencias a los cinco documentos. Si falta un documento, preguntar: "¿Qué información tomaste de /Resultados_Fase1_PMS?".
+> **Validación:** el informe incluye las siete secciones y referencias a las cinco secciones fuente de los dos expedientes. Preguntar, si falta un documento: "¿Qué información tomaste de la sección Resultados de fase 1 en /Dossier_Gestion_PMS?".
 
-### Tarea 3. Revisar afirmaciones sin respaldo y diferencias entre fuentes.
-
-Paso 1. Escribir:
+### Tarea 3. Revisar afirmaciones sin respaldo y diferencias entre fuentes
+**Paso 1.** Escribir:
 
 ```text
 Revisa tu propio informe. Lista: a) afirmaciones que no estén respaldadas textualmente por una fuente,
-b) datos en los que las fuentes no coinciden (cifra o hecho, fuente 1, fuente 2),
+b) datos en los que las secciones fuente no coinciden (cifra o hecho, fuente 1, fuente 2),
 c) recomendaciones o conclusiones que deben validarse antes de presentarse a la dirección.
 ```
 
-Paso 2. Comparar el resultado con la tabla de diferencias sembradas en los documentos:
+**Paso 2.** Comparar el resultado con la tabla de diferencias sembradas en los documentos:
 
 | Dato | Fuente 1 | Fuente 2 |
 | --- | --- | --- |
@@ -96,11 +93,10 @@ Paso 2. Comparar el resultado con la tabla de diferencias sembradas en los docum
 | Sobrecosto | 6.800 MCOP con tasa 4.350 COP/USD | Aprox. 5.900 MCOP con tasa corporativa 4.100 COP/USD (ambos en el Informe financiero) |
 | Causa del retraso | Proveedor (Avance operativo) | Lección aprendida: congelar especificaciones antes de las órdenes de compra (Resultados fase 1) |
 
-Paso 3. Abrir al menos **dos** documentos fuente y verificar manualmente una cifra de cada uno. Registrar si el agente la citó correctamente.
+**Paso 3.** Abrir al menos **dos** documentos fuente y verificar manualmente una cifra de cada uno. Corregir en el informe las afirmaciones incorrectas y señalar su fuente.
 
-### Tarea 4. Ajustar el informe y guardarlo en Word.
-
-Paso 1. Escribir:
+### Tarea 4. Ajustar el informe y guardarlo en Word
+**Paso 1.** Escribir:
 
 ```text
 Actualiza el informe: agrega una sección "Diferencias entre fuentes" con la tabla anterior,
@@ -108,21 +104,20 @@ marca como "Por validar" las conclusiones sin respaldo y elimina cualquier recom
 aprobar o rechazar la solicitud. Mantén las referencias documentales.
 ```
 
-Paso 2. Exportar o copiar el informe a Word (usar la opción de abrir en Word si el agente la ofrece) y guardarlo como `Laboratorio_Copilot_ISA/Entregables/Informe_Ejecutivo_PMS_[INICIALES].docx`.
-
-### Entregable
-Informe ejecutivo en Word, con síntesis de resultados, mensajes clave, preguntas anticipadas y referencias a la documentación utilizada.
-
-Criterios de verificación:
-- [ ] Define el objetivo, los participantes y las decisiones esperadas de la reunión.
-- [ ] Integra información de los cinco documentos (Word y PDF) con su referencia.
-- [ ] Incluye mensajes clave, preguntas anticipadas y asuntos por aclarar.
-- [ ] Contiene la sección "Diferencias entre fuentes" con al menos tres diferencias.
-- [ ] Marca como "Por validar" las afirmaciones sin respaldo y no recomienda aprobar ni rechazar.
+**Paso 2.** Exportar o copiar el informe a Word (usar la opción de abrir en Word si el agente la ofrece) y guardarlo como `Laboratorio_Copilot_ISA/Entregables/Informe_Ejecutivo_PMS_[INICIALES].docx`.
 
 ### Resultado esperado
+Informe ejecutivo en Word, con síntesis de resultados, mensajes clave, preguntas anticipadas y referencias a la documentación utilizada.
+
+**Comprobación de finalización:**
+- Define el objetivo, los participantes y las decisiones esperadas de la reunión.
+- Integra las cinco secciones de referencia presentes en los dos archivos (Word y PDF) con su referencia.
+- Incluye mensajes clave, preguntas anticipadas y asuntos por aclarar.
+- Contiene la sección "Diferencias entre fuentes" con al menos tres diferencias.
+- Marca como "Por validar" las afirmaciones sin respaldo y no recomienda aprobar ni rechazar.
+
 ![Estructura esperada del entregable de la Práctica 8](../../images/cap08-resultado.svg)
 
 ---
 
-[⬅ Anterior: Práctica 7](../../Capitulo03/Practica07/README.md) | [Inicio](../../README.md) | [Siguiente: Práctica 9 ➡](../../Capitulo03/Practica09/README.md)
+[Práctica 7](../Practica07/README.md) | [Inicio](../../README.md) | [Práctica 9](../Practica09/README.md)
