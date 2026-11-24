@@ -22,6 +22,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Preparar los borradores en Outlook | 5 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Agente | Diseñador de comunicaciones |

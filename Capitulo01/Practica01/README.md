@@ -23,6 +23,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Identificar evidencia insuficiente y guardar el entregable | 3 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Aplicación | Aplicación Microsoft 365 Copilot ([m365.cloud.microsoft](https://m365.cloud.microsoft/)) |

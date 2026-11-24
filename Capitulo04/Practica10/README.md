@@ -21,6 +21,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 3. Construir la ficha ejecutiva y los temas de coordinación | 6 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Agente | Asistente de información sobre clientes |

@@ -23,6 +23,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Clasificar hallazgos y construir la matriz | 4 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Aplicación | Microsoft 365 Copilot (aplicación o Copilot en Teams) |

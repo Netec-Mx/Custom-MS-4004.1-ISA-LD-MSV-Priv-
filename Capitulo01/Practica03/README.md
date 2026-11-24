@@ -21,6 +21,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 3. Reformular la recomendación | 6 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Aplicación | Aplicación Microsoft 365 Copilot ([m365.cloud.microsoft](https://m365.cloud.microsoft/)) |

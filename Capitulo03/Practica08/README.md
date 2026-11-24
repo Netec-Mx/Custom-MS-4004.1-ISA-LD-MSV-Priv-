@@ -23,6 +23,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Ajustar y guardar en Word | 4 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Agente | Agente de informe ejecutivo |

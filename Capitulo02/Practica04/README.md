@@ -23,6 +23,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Revisar la agenda y confirmar Facilitator | 3 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Reunión en el calendario | `Comité Directivo - Seguimiento PMS` (programada por la persona responsable de la preparación; ver [Setup_Guide.md](../../Setup_Guide.md)) |

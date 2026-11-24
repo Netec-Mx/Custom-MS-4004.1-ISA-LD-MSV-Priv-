@@ -23,6 +23,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Estructurar la presentación con Copilot en PowerPoint | 4 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Herramientas | Chat de Microsoft 365 Copilot y Copilot en PowerPoint |

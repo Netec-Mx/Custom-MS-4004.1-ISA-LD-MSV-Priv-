@@ -24,6 +24,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 5. Guardar el agente y confirmar la revisión | 2 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Herramienta | Agent Builder en la aplicación Microsoft 365 Copilot (**Crear agente**) |

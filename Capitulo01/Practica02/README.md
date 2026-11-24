@@ -22,6 +22,7 @@ Al finalizar la práctica, serás capaz de:
 | Tarea 4. Comparar alternativas ante restricción presupuestal | 6 min |
 
 ## Tabla de ayuda:
+
 | Elemento | Valor |
 | --- | --- |
 | Aplicación | Aplicación Microsoft 365 Copilot ([m365.cloud.microsoft](https://m365.cloud.microsoft/)) |
